@@ -1,12 +1,7 @@
-import React from 'react';
+import React from "react";
 
 const DisplayCounter = () => {
-  return (
-    <div>
-      
-    </div>
-  );
+  return <div>DisplayCounter</div>;
 };
-
 
 export default DisplayCounter;
